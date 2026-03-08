@@ -10,3 +10,10 @@
 -Power query 
 -Dashboard Creation
 -Data Analysis
+
+## Key Insights
+-Electronics generated the highest profit.
+-sales increased significantly during Q4.
+-some categories did quite number in revenues but low profit margins.
+
+##Dashboard Preview.
