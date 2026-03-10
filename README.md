@@ -55,4 +55,26 @@ insights I discovered during the analysis include:
 	•	Discount levels impact profit margins, showing the importance of balanced pricing strategies.
 	•	Payment method analysis reveals how customers prefer to complete transactions.
 	•	Monthly trend analysis helps identify sales patterns over time.
+ 📊 Dashboard Features
+
+The Excel dashboard includes:
+	•	KPI summary section
+	•	Revenue by product category analysis
+	•	Monthly revenue and profit trends
+	•	Discount impact analysis
+	•	Payment method analysis
+	•	Interactive slicers for filtering data (Region, Category, Payment Method)
+
+These elements allow users to dynamically explore the dataset and gain deeper insights.
+
+⸻
+
+💡 Business Value
+
+This project demonstrates how data analysis can help businesses:
+	•	Monitor performance across product categories
+	•	Understand customer purchasing behavior
+	•	Optimize pricing and discount strategies
+	•	Improve decision-making through clear visual insights
+
 
